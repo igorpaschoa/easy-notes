@@ -14,6 +14,9 @@ Fonte do projeto: https://www.callicoder.com/spring-boot-rest-api-tutorial-with-
 
 ### Screenshots
 
+- Documentação com Swagger
+![swagger](https://user-images.githubusercontent.com/30351207/43299844-8095b306-9132-11e8-9763-13bc3b18bc02.PNG)
+
 - Inserindo uma nota
 ![post](https://user-images.githubusercontent.com/30351207/43176302-586e3bf4-8f99-11e8-809a-21d7a23b176d.PNG)
 
